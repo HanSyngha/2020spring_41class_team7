@@ -41,8 +41,9 @@
 > Wishlist - DB에서 user의 wishlist 정보를 받아 출력, 카테고리별 확인가능<br>
 + 한승하<br>
 > vuetify 플러그인을 사용한 vue.js<br>
+> Firebase DB와 Component 연동<br>
 > Compare System 객체간 비교 시스템 개발 및 페이지 제작<br>
-> Item detail System 객체 상세 내용 확인 페이지 제<br>
+> Item detail System 객체 상세 내용 확인 페이지 제작<br>
 > System간 Interface 유지 보수<br>
 > component 객체 담당<br>
 
