@@ -1,4 +1,5 @@
 # CompareWise
+This project is the result of our team project of Software Engineering course. We started from choosing a method, writing the Requirements Specification, Design specification to our PWA application. we used vue.js and firebase and node.js for our project.
  * [프로젝트 소개](#About_Project)
  * [팀 소개](#Members)
  * [문서 소개](#Documents)
