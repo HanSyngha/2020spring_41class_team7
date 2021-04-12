@@ -57,3 +57,4 @@ This project is the result of our team project of Software Engineering course. W
 > [Design Specification](https://github.com/skkuse/2020spring_41class_team7/blob/master/doc/CompareWise_Design_Specification.pdf)<br>
 
 + /workspace: 각자 담당한 부분 코드 공유
+-bring up
